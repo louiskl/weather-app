@@ -2,8 +2,7 @@ import Foundation
 
 enum Constants {
     /// WeatherAPI.com API-Schlüssel
-    /// Registriere dich unter https://www.weatherapi.com/ für einen kostenlosen Schlüssel
-    static let apiKey = "DEIN_API_KEY_HIER"  // Trage hier deinen WeatherAPI.com Key ein
+    static let apiKey = "61bc8876ebde4265b7590453260302"  // Trage hier deinen WeatherAPI.com Key ein
     
     /// Basis-URL für WeatherAPI.com
     static let baseURL = "https://api.weatherapi.com/v1"
